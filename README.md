@@ -151,6 +151,10 @@ CS488 ../media/heavyweaponsmanred4.obj
 
 ## Implementation Detail
 
+If you just want to study on how these shader were implemented, you can read:
+
+* https://github.com/vinesmsuic/TeamFortress2-Shader/blob/main/src/cs488.h#L2048-L2551
+
 For math equations, please refer to my report:
 
 * [Reimplementing Shading from the Video Game “Team Fortress 2”](https://drive.google.com/file/d/1shZdfo1f4UPAJZjE8OQlPA4EvR2oWjXy/view?usp=sharing)
@@ -158,6 +162,8 @@ For math equations, please refer to my report:
 
 
 ## Credit 
+
+[Toshiya Hachisuka](https://cs.uwaterloo.ca/~thachisu/)'s awesome basecode for the renderer 
 
 All the TF2-related models / textures are downloaded from the internet. Links include:
 
