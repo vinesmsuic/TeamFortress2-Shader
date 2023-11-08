@@ -172,4 +172,5 @@ other models are either drawn or constructed by me using Blender 2.83.
 
 ## Video Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IasiltGi1b0?si=KdCls18T4uzpOAE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/IasiltGi1b0/maxresdefault.jpg)](https://youtu.be/IasiltGi1b0)
+
